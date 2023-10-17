@@ -53,7 +53,7 @@ public class Product {
 
 	@Override
 	public int hashCode() {
-		return this.prodId;
+		return this.prodId; //dont have to write sab kuch!!!! so override hashcode and equals
 	}
 
 	@Override

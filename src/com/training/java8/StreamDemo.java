@@ -25,7 +25,7 @@ public class StreamDemo {
 		ArrayList<Product> products = new ArrayList<>();
 //		ArrayList<Product> newList = new ArrayList<>();
 
-		products.add(new Product(101, "badminton", "toys", 2000));
+		products.add(new Product(105, "badminton", "toys", 2000));
 		products.add(new Product(102, "hockey", "sports", 200));
 		products.add(new Product(103, "lego", "toys", 800));
 		products.add(new Product(103, "lego", "toys", 800));
